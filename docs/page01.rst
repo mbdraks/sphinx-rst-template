@@ -1,7 +1,7 @@
 .. _page01:
 
 Part 01 Title
-#############
+########################################################################
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus suscipit scelerisque sodales. Integer tempus malesuada orci, at vulputate magna iaculis sit amet. Nulla vel mauris sollicitudin elit placerat condimentum et eu eros.
 
@@ -9,26 +9,9 @@ This file covers the following topics.
 
 .. contents::
 
-Chapter 1
-*********
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec malesuada ultricies sapien quis egestas. Aliquam fringilla a tortor at semper.
-
-
-Section 2
-=========
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec malesuada ultricies sapien quis egestas. Aliquam fringilla a tortor at semper.
-
-
-Subsection 1
-------------
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec malesuada ultricies sapien quis egestas. Aliquam fringilla a tortor at semper.
-
 
 Chapter 2
-*********
+************************************************************************
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec malesuada ultricies sapien quis egestas. Aliquam fringilla a tortor at semper.
 
@@ -38,17 +21,17 @@ helpful as a reference. This file contains examples of .rst formatting.
 Explanations and more context for each type of element are provided in index
 
 Section to cross-reference
-==========================
+========================================================================
 
 This is the text of the section.
 
-It refers to the section itself, see :ref:`page01`.
+It refers to the section itself, see :ref:`page01`
 
 
 .. _heading_anchor:
 
 Heading levels
-==============
+========================================================================
 
 ::
 
@@ -66,7 +49,7 @@ Heading levels
 
 
 Paragraph Text and Commented Text
-========================================================================
+------------------------------------------------------------------------
 
 This is an example of regular text in paragraph form. There are no
 indents. As a best practice, break lines at about 80 characters, so that
