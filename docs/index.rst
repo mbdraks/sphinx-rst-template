@@ -1,6 +1,8 @@
 project-name's documentation
 ############################
 
+You're on the ``develop`` branch now
+
 .. toctree::
    :maxdepth: 3
 
